@@ -108,7 +108,7 @@ const about = () => {
                 </span>
 
                 <h2 className="text-xl items-center text-center font-medium capitalize text-dark/75 dark:text-light/75 xl:text-center md:text-lg sm:text-base xs:text-sm">
-                  Projects completed and one patent approved.
+                  Projects completed and one Patent published .
                 </h2>
               </div>
               <div className="flex flex-col items-center justify-center xl:items-center">
