@@ -58,7 +58,7 @@ const about = () => {
               </h2>
 
               <p className="font-medium">
-                - Hello, I'm Rashmi Hiremath, a tech enthusiast with a diverse
+                - Hello, I am Rashmi Hiremath, a tech enthusiast with a diverse
                 skill set spanning technology, communication, and creative
                 pursuits.
               </p>
@@ -69,9 +69,9 @@ const about = () => {
               </p>
 
               <p className="font-medium">
-                - Recently, I've begun a new professional journey as a Graduate
+                - Recently, I have begun a new professional journey as a Graduate
                 Engineer Trainee at Continental in Bengaluru. Thrilled to be
-                part of this leading automotive company, I'm eager to delve into
+                part of this leading automotive company, I am eager to delve into
                 the dynamic world of automotive engineering. Excited about
                 leveraging my skills and exploring new horizons in the dynamic
                 world of technology.
