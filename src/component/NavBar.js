@@ -187,7 +187,7 @@ const NavBar = () => {
 
       <nav className="flex items-center justify-center flex-wrap mt-2">
         <motion.a
-          href="https://github.com/RashmiMHiremath"
+          href="https://twitter.com/RashmiHire30560"
           target={"_blank"}
           whileHover={{ y: -2 }}
           whileTap={{ scale: 0.9 }}
@@ -205,7 +205,7 @@ const NavBar = () => {
           <GithubIcon />
         </motion.a>
         <motion.a
-          href="https://github.com/RashmiMHiremath"
+          href="https://www.linkedin.com/in/rashmi-hiremath-b81808223/"
           target={"_blank"}
           className="w-6 mx-3 sm:mx-1"
           whileHover={{ y: -2 }}
@@ -214,7 +214,7 @@ const NavBar = () => {
           <LinkedInIcon />
         </motion.a>
         <motion.a
-          href="https://github.com/RashmiMHiremath"
+          href="https://in.pinterest.com/rashmihiremath35/"
           target={"_blank"}
           className="w-6 mx-3 bg-light rounded-full sm:mx-1"
           whileHover={{ y: -2 }}
@@ -223,7 +223,7 @@ const NavBar = () => {
           <PinterestIcon />
         </motion.a>
         <motion.a
-          href="https://github.com/RashmiMHiremath"
+          href="https://dribbble.com/rashmihiremath"
           target={"_blank"}
           className="w-6 ml-3 sm:mx-1"
           whileHover={{ y: -2 }}
